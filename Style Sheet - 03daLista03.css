@@ -1,0 +1,98 @@
+/* CSS Document */
+#tabela{
+        border-style:solid;
+        border-width: 1px; 
+        border-color:#DDDDDD;
+        width:900px ;
+	height:100px ;
+	font-family:Arial;
+        table-layout: fixed ;
+        border-collapse: separate;
+}
+
+
+#titulos{
+font-size:13px;
+color:#99999;
+  text-align:center;
+
+}
+
+#coluna-p{
+        size:14px;
+	background-color: #F7F7F7 ;
+	font-weight:bold;
+        text-align:center;        
+}
+#Libertadores{
+	font-size:18px;
+	color:#003366;
+        text-align:center;
+        font-weight:bold;
+
+}
+#Pre-Libertadores{
+        font-size:18px;
+	color:#1398BE;
+	text-align:center;
+        font-weight:bold;
+        
+}
+#Sul-Americana{
+	font-size:18px;
+	color:#DE9800;
+	text-align:center;
+        font-weight:bold;	
+}
+#time{
+font-size:14px;
+color:#666666;
+text-align:center;
+
+}
+#coluna-p{
+        size:14px;
+	background-color: #F7F7F7 ;
+	font-weight:bold;
+        text-align:center;        
+}
+#coluna-j{
+	size:14px;
+        text-align:center;        
+}
+#coluna-v{
+	size:14px;
+        background-color: #F7F7F7 ;
+	color:#66666;
+        text-align:center;        
+}
+#coluna-e{
+	size:14px;
+        text-align:center;        
+}
+#coluna-d{
+	size:14px;
+        background-color: #F7F7F7 ;
+	color:#66666;
+        text-align:center;        
+}
+#coluna-gp{
+	size:14px;
+        text-align:center;        
+}
+#coluna-gc{
+	size:14px;
+        background-color: #F7F7F7 ;
+	color:#66666;
+        text-align:center;        
+}
+#coluna-sg{
+	size:14px;
+        text-align:center;        
+}
+#coluna-a{
+	size:14px;
+        background-color: #F7F7F7 ;
+	color:#66666;
+        text-align:center;        
+}
